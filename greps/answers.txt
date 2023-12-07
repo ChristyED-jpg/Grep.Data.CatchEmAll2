@@ -12,13 +12,9 @@ grep.data.CatchEmAll2 % grep -p 'meleon' forest/filescan_00.2
 
 ### c)
 grep.data.CatchEmAll2 % grep -p 'ivys' forest/filescan_00.3
-
-
-
-
-
-
-
+grep.data.CatchEmAll2 % grep -p 'lypuff' forest/filescan_00.3
+grep.data.CatchEmAll2 % grep -p 'th' forest/filescan_00.3
+grep.data.CatchEmAll2 % grep -p 'chu' forest/filescan_00.3
 
 # Part 2
 ### a)
