@@ -3,18 +3,15 @@
 grep.data.CatchEmAll2 % grep -p 'beed' forest/filescan_00.1
 grep.data.CatchEmAll2 % grep -p 'blas' forest/filescan_00.1
 grep.data.CatchEmAll2 % grep -p 'bulb' forest/filescan_00.1
-
+grep.data.CatchEmAll2 % grep -p 'butt' forest/filescan_00.1
 
 ### b)
-
-
+grep.data.CatchEmAll2 % grep -p 'izard' forest/filescan_00.2
+grep.data.CatchEmAll2 % grep -p 'mander' forest/filescan_00.2
+grep.data.CatchEmAll2 % grep -p 'meleon' forest/filescan_00.2
 
 ### c)
-
-
-
-
-
+grep.data.CatchEmAll2 % grep -p 'ivys' forest/filescan_00.3
 
 
 
