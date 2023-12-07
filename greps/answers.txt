@@ -5,16 +5,31 @@ grep.data.CatchEmAll2 % grep -p 'blas' forest/filescan_00.1
 grep.data.CatchEmAll2 % grep -p 'bulb' forest/filescan_00.1
 grep.data.CatchEmAll2 % grep -p 'butt' forest/filescan_00.1
 
-### b)
 grep.data.CatchEmAll2 % grep -p 'izard' forest/filescan_00.2
 grep.data.CatchEmAll2 % grep -p 'mander' forest/filescan_00.2
 grep.data.CatchEmAll2 % grep -p 'meleon' forest/filescan_00.2
 
-### c)
 grep.data.CatchEmAll2 % grep -p 'ivys' forest/filescan_00.3
 grep.data.CatchEmAll2 % grep -p 'lypuff' forest/filescan_00.3
 grep.data.CatchEmAll2 % grep -p 'th' forest/filescan_00.3
 grep.data.CatchEmAll2 % grep -p 'chu' forest/filescan_00.3
+
+grep.data.CatchEmAll2 % grep -p 'uck' forest/filescan_00.4
+grep.data.CatchEmAll2 % grep -p 'ortle' forest/filescan_00.4
+grep.data.CatchEmAll2 % grep -p 'squi' forest/filescan_00.4
+
+
+### b)
+
+
+### c)
+beedrill, blastoise, and bulbassaur were found in the filescon_00.1
+
+charizard, charmeleon, and charmander were found in the filescon_00.2
+
+ivysaur, jigglypuff, meowth, and pikachu were found in the filescon_00.3
+
+
 
 # Part 2
 ### a)
