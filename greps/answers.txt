@@ -2,6 +2,7 @@
 ### a)
 grep.data.CatchEmAll2 % grep -p 'beed' forest/filescan_00.1
 grep.data.CatchEmAll2 % grep -p 'blas' forest/filescan_00.1
+grep.data.CatchEmAll2 % grep -p 'bulb' forest/filescan_00.1
 
 
 ### b)
