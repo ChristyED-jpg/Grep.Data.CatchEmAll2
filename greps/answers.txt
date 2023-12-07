@@ -17,17 +17,20 @@ grep.data.CatchEmAll2 % grep -p 'chu' forest/filescan_00.3
 grep.data.CatchEmAll2 % grep -p 'uck' forest/filescan_00.4
 grep.data.CatchEmAll2 % grep -p 'ortle' forest/filescan_00.4
 grep.data.CatchEmAll2 % grep -p 'squi' forest/filescan_00.4
+grep.data.CatchEmAll2 % grep -p 'saur' forest/filescan_00.4
 
 
 ### b)
 
 
 ### c)
-beedrill, blastoise, and bulbassaur were found in the filescon_00.1
+beedrill, blastoise, and bulbassaur were found in the filescan_00.1
 
-charizard, charmeleon, and charmander were found in the filescon_00.2
+charizard, charmeleon, and charmander were found in the filescan_00.2
 
-ivysaur, jigglypuff, meowth, and pikachu were found in the filescon_00.3
+ivysaur, jigglypuff, meowth, and pikachu were found in the filescan_00.3
+
+psyduck, wartortle, squirtle,  venusaur were found in the filescan_00.4
 
 
 
